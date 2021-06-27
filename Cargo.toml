@@ -1,0 +1,12 @@
+[package]
+name = "MouseMover"
+version = "0.1.0"
+authors = ["akineralkan <akiner.alkan@siemens.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mouse-rs = "0.4"
+clokwerk = "0.3.5"
+chrono = "0.4.19"
